@@ -1,0 +1,43 @@
+*.py[cod]
+*.*~
+.#*
+*#*#
+*.txt
+*.pdf
+!images/*.pdf
+*[.-]bak
+.~lock.*
+*.log
+*.raw
+*.net
+*.plt
+*.fft
+KiCad/fp-info-cache
+logs/*.log*
+old
+docs/htmlcov
+!LICENSE.txt
+*.zip
+*.tar.gz
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+var
+sdist
+develop-eggs
+.installed.cfg
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Translations
+*.mo
