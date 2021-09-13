@@ -4,7 +4,7 @@ Voltage Current Meter
 The MIT License (MIT)
 
 A circuit to show voltage and current on a TFT display. Parts can be added
-using a small array of mounting holes on the board, plus two daughter bords
+using a small array of mounting holes on the board, plus two daughter boards
 can be plugged into female connectors. There is an on board 5V to 3.3V
 regulator which powers all components.
 
