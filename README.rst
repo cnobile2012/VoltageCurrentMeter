@@ -40,7 +40,7 @@ Schematic
 =========
 
 .. image:: images/VoltageCurrentMeter-V1.0.png
-  :width: 400
+  :width: 600
   :alt: Schematic
 
 
