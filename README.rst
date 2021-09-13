@@ -18,7 +18,7 @@ KiCAD files of the schematic and PCB.
 Setup Instructions
 ==================
 
-  1. J1 - J8 are JST 1.5mm 3-pin connectors and are for the analo inputs or
+  1. J1 - J8 are JST 1.5mm 3-pin connectors and are for the analog inputs or
      outputs of the 74HC4051 (8-Channel Analog Multiplexer/Demultiplexer).
   2. J9 is a screw terminal block for the circuits supply voltage.
   3. J10 is the Power Jumper. It allows the use of 5V on J9 or routes the
@@ -40,8 +40,24 @@ Schematic
 =========
 
 .. image:: images/VoltageCurrentMeter-V1.0.png
-  :width: 600
+  :width: 800
   :alt: Schematic
+
+================
+Arduino Sketches
+================
+
+Below are the sketches that use this board.
+
+--------------
+BatteryCharger
+--------------
+
+This sketch displays the Voltage and Current limited values and the actual
+values while charging Li-Ion batteries. The charging voltage is adjustable to
+3 (12.6V), 4 (16.8V), or 5 (21.0V) depending on the number of cells. The
+default current is limited to 1250mA or can be set to adjustable using a
+potentiometer.
 
 
 Feel free to contact me at: carl dot nobile at gmail.com
