@@ -53,11 +53,11 @@ Below are the sketches that use this board.
 BatteryCharger
 --------------
 
-This sketch displays the Voltage and Current limited values and the actual
+This sketch displays the set voltage and current limited values and the actual
 values while charging Li-Ion batteries. The charging voltage is adjustable to
-3 (12.6V), 4 (16.8V), or 5 (21.0V) depending on the number of cells. The
-default current is limited to 1250mA or can be set to adjustable using a
-potentiometer.
+12.6V (3 cells), 16.8V (4 cells), or 21.0V (5 cells) depending on the number of
+cells. The default current is limited to 1250mA or can be set to adjustable
+using a potentiometer.
 
-
+--------------------------------------------------------
 Feel free to contact me at: carl dot nobile at gmail.com
