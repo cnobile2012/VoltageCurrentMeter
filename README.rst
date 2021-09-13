@@ -59,5 +59,5 @@ values while charging Li-Ion batteries. The charging voltage is adjustable to
 cells. The default current is limited to 1250mA or can be set to adjustable
 using a potentiometer.
 
---------------------------------------------------------
+
 Feel free to contact me at: carl dot nobile at gmail.com
