@@ -4,7 +4,7 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title "Current Power Meter (Up to eight channels)"
+Title "Voltage Current Meter (Up to eight channels)"
 Date "2021-08-01"
 Rev "V1.0"
 Comp "TetraSys"
