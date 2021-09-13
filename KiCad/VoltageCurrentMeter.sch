@@ -479,7 +479,7 @@ L Connector:Screw_Terminal_01x02 J9
 U 1 1 610C3975
 P 4850 5250
 F 0 "J9" H 4850 4900 50  0000 C CNN
-F 1 "V In" H 4850 5000 50  0000 C CNN
+F 1 "V-IN    GND" H 5150 5200 50  0000 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 4850 5250 50  0001 C CNN
 F 3 "~" H 4850 5250 50  0001 C CNN
 	1    4850 5250
@@ -601,7 +601,7 @@ $Comp
 L Connector:Conn_01x03_Male J10
 U 1 1 61A860F2
 P 5600 5150
-F 0 "J10" H 5600 5150 50  0000 R CNN
+F 0 "J10" H 5800 4650 50  0000 R CNN
 F 1 "Power Jumper" H 5950 4750 50  0000 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 5600 5150 50  0001 C CNN
 F 3 "~" H 5600 5150 50  0001 C CNN
